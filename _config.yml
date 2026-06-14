@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                    : "en-US"
 site_theme                : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                     : "Yair Israel Saldman - Portfolio"
+title                     : "Mor Romano - Portfolio"
 title_separator           : "-"
-name                      : &name "Yair Israel Saldman"
+name                      : &name "Mor Romano"
 description               : &description "B.Sc. Computer Science Student at Ariel University - Personal Projects and Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                       : https://saldman.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                       : https://Toxice.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                   : "" # the subpath of your site, e.g. "/blog"
 repository                : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository                : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Yair Israel Saldman"
-  pronouns         : 
-  bio              : "19-year-old B.Sc. Computer Science student at Ariel University. Graduated high school with a 110 average and 35 matriculation units. Building and sharing projects for fun, with a strong focus on Discrete Mathematics, Linear Algebra, Cryptography, Algorithms, and interesting theoretical concepts."
+  name             : "Mor Romano"
+  pronouns         : "He"
+  bio              : "Undergrad B.Sc. Computer Science student at Ariel University. Finding Interest in Discrete Math, Linear Algebra and Systems Programming"
   location         : "Israel"
   employer         : "Ariel University"
   uri              : # URL
-  email            : "yairsaldma@gmail.com" 
+  email            : "toxice290@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "SALDMAN"
+  github           : "Toxice"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
