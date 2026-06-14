@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "פרויקטים"
+  - title: "Projects"
     url: /portfolio/
-  - title: "דברים לכיף"
+  - title: "Fun"
     url: /talks/
-  - title: "צור קשר ללימודים אישיים"
+  - title: "Contant"
     url: /contact/
