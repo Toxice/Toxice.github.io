@@ -17,7 +17,8 @@ My primary academic and research focus areas include:
 * **Discrete Mathematics**
 * **Graph Theory**
 * **Linear Algebra**
-* **C Language & Systems Programming**
+* **Adnaced Algorithms**
+* **Systems Programming**
 
 ---
 
